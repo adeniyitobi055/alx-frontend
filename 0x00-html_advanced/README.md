@@ -6,7 +6,7 @@
 
 ## Description
 
-|TASK      |FILE        |DESCRIPTION        |
-|----------|------------|-------------------|
-|0|[0-index.html](0-index.html)|Creates `0-index.html` with: -doctype|
-|1|[1-index.html](https://github.com/adeniyitobi055/alx-frontend/blob/master/0x00-html_advanced/1-index.html)|Create `1-index.html` with: `head` tag, `head` tag & `body` tag|
+|TASK                            |FILE                            |DESCRIPTION                       |
+|--------------------------------|--------------------------------|----------------------------------|
+|0. Create your first webpage    |[0-index.html](0-index.html)    |Created html file `0-index.html` with:<br> -doctype<br> - `html` tag with lang and dir attributes<br>|
+|1. Structure your webpage       |[1-index.html](1-index.html)    |Created html file `1-index.html` with:<br> - `head` tag<br>, - `body` tag<br>|
