@@ -8,8 +8,8 @@
 
 |TASK|FILE|DESCRIPTION|
 |----|----|-----------|
-|0. Create your first webpage|[0-index.html](0-index.html)|Created `0-index.html` with:<br> - doctype<br> - `html` tag with lang and dir attributes<br>|
-|1. Structure your webpage|[1-index.html](1-index.html)|Created `1-index.html` with:<br> - `head` tag, `body` tag<br>|
+|0. Create your first webpage|[0-index.html](0-index.html)|Created `0-index.html` with:<br> <ul><li>doctype</li><li>`html` tag with lang and dir attributes</li></ul><br>|
+|1. Structure your webpage|[1-index.html](1-index.html)|Created `1-index.html` with:<br> <ul><li>`head` tag</li><li>`body` tag</li></ul><br>|
 |2. The head - meta, title, image|[2-index.html](2-index.html)|Created `2-index.html` with:<br> - `meta` tag,  `title` tag, `image` tag<br>|
 |3.Simple header, main, footer|[3-index.html](3-index.html)|Created `3-index.html` with:<br> - `header` tag, `main` tag, `footer` tag<br>|
 |4. Aside|[article.html](article.html)|Created `article.html` with:<br> - `title` tag, `aside` tage inside `main` tag<br>|
