@@ -26,3 +26,4 @@
 |15. Div|[15-index.html](15-index.html)|Created `15-index.html`:<br> <ul><li>Wrapped the contents of the `header` element with a `div`</li><li>Wrap the contents of all `section` elements with a `div`</li><li>Finally, wrap the contents of the `footer` tag with a `div`.</li></ul>|
 |16. Structure your sections|[16-index.html](16-index.html)|Created `16-index.html`:<br> <ul><li>In the `div` in the `services section`:<ul><li>created `header` tag that wraps the `h2` and `p`</li><li>created a `div` sibling to the `header` that wraps the rest of the content.</li></ul></li></ul> Applied it to all `sections`|
 |17. Comments|[17-index.html](17-index.html)|Created `17-index.html` with line breaks & comments before: <ul><li>all `section`</li><li>`header` & `main`.</li></ul>|
+|18. link your logo|[18-index.html](18-index.html)|Created `18-index.html` with:<br> <ul><li>a **header**<ul><li>wraps the span with a **link**.</li></ul></li></ul>|
