@@ -485,11 +485,8 @@ a:active {
 .nav {
     margin: 0;
     padding: 0;
-    text-align: center;
-}
-
-.nav ul {
     list-style: none;
+    text-align: center;
 }
 
 .nav .nav-item {
