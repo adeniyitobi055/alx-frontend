@@ -1030,3 +1030,17 @@
     cursor: text;
     margin: 0 1rem;
   }
+
+  /* Base
+        ============================= */
+  @media screen and (max-width: 480px) {
+    .html {
+        font-size: 57%;
+    }
+  }
+
+  @media screen and (min-width:481px) and (max-width:767px) {
+    .html {
+        font-size: 60%;
+    }
+  }
